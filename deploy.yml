@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Happy Birthday Celebration Website by Code_With_Sujal_</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="first--slide">
+      <div class="slide--content">
+        <h1>Hello</h1>
+        <h2>Dear Khushi</h2>
+        <span class="top"></span>
+        <span class="right"></span>
+        <span class="bottom"></span>
+        <span class="left"></span>
+      </div>
+
+      <div class="slide--content--one">
+        <h1 class="first">today</h1>
+        <h2 class="first">is</h2>
+        <h2 class="second">your</h2>
+        <h1 class="second">special day</h1>
+        <div class="circle--stuff">
+          <svg
+            viewBox="0 0 288 48"
+            width="288"
+            height="48"
+            style="overflow: visible;"
+          >
+            <g transform="translate(144 0)">
+              <g transform="translate(-276.566 421.129)">
+                <rect
+                  width="12.608460234942264"
+                  height="12.608460234942264"
+                  fill="#F87B7C"
+                  transform="rotate(72.60145421789896)"
+                ></rect>
+                <animateTransform
+                  attributeName="transform"
+                  type="translate"
+                  from="-147.31692562790084 0"
+                  to="-294.6338512558017 480"
+                  dur="1.2580507927982927s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animateTransform>
+                <animate
+                  attributeType="CSS"
+                  attributeName="opacity"
+                  values="1;0"
+                  dur="1.2580507927982927s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animate>
+              </g>
+              <g transform="translate(269.756 389.735)">
+                <rect
+                  width="6.6024317861213895"
+                  height="6.6024317861213895"
+                  fill="#FFC107"
+                  transform="rotate(38.02803143466206)"
+                ></rect>
+                <animateTransform
+                  attributeName="transform"
+                  type="translate"
+                  from="148.876375621307 0"
+                  to="297.752751242614 480"
+                  dur="1.500721309571935s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animateTransform>
+                <animate
+                  attributeType="CSS"
+                  attributeName="opacity"
+                  values="1;0"
+                  dur="1.500721309571935s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animate>
+              </g>
+              <g transform="translate(174.705 169.205)">
+                <rect
+                  width="5.852897883045647"
+                  height="5.852897883045647"
+                  fill="#F65A5B"
+                  transform="rotate(28.456635184965855)"
+                ></rect>
+                <animateTransform
+                  attributeName="transform"
+                  type="translate"
+                  from="129.17077622623987 0"
+                  to="258.34155245247973 480"
+                  dur="1.0529970168710006s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animateTransform>
+                <animate
+                  attributeType="CSS"
+                  attributeName="opacity"
+                  values="1;0"
+                  dur="1.0529970168710006s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animate>
+              </g>
+              <g transform="translate(-130.903 64.4332)">
+                <rect
+                  width="10.500608397273465"
+                  height="10.500608397273465"
+                  fill="#F65A5B"
+                  transform="rotate(33.518702042612105)"
+                ></rect>
+                <animateTransform
+                  attributeName="transform"
+                  type="translate"
+                  from="-115.41033595665428 0"
+                  to="-230.82067191330856 480"
+                  dur="1.9569807707276798s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animateTransform>
+                <animate
+                  attributeType="CSS"
+                  attributeName="opacity"
+                  values="1;0"
+                  dur="1.9569807707276798s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animate>
+              </g>
+              <g transform="translate(255.222 435.243)">
+                <rect
+                  width="5.741483052387249"
+                  height="5.741483052387249"
+                  fill="#39D1B4"
+                  transform="rotate(46.49147792751984)"
+                ></rect>
+                <animateTransform
+                  attributeName="transform"
+                  type="translate"
+                  from="133.85114085517338 0"
+                  to="267.70228171034677 480"
+                  dur="1.3036790452656355s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animateTransform>
+                <animate
+                  attributeType="CSS"
+                  attributeName="opacity"
+                  values="1;0"
+                  dur="1.3036790452656355s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animate>
+              </g>
+              <g transform="translate(31.0162 15.9351)">
+                <rect
+                  width="6.80101713474188"
+                  height="6.80101713474188"
+                  fill="#FFC107"
+                  transform="rotate(11.204022894474395)"
+                ></rect>
+                <animateTransform
+                  attributeName="transform"
+                  type="translate"
+                  from="30.019648010959024 0"
+                  to="60.03929602191805 480"
+                  dur="1.0387121585702985s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animateTransform>
+                <animate
+                  attributeType="CSS"
+                  attributeName="opacity"
+                  values="1;0"
+                  dur="1.0387121585702985s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animate>
+              </g>
+              <g transform="translate(-3.09286 202.201)">
+                <rect
+                  width="10.607425290967909"
+                  height="10.607425290967909"
+                  fill="#F65A5B"
+                  transform="rotate(73.47039150769439)"
+                ></rect>
+                <animateTransform
+                  attributeName="transform"
+                  type="translate"
+                  from="-2.17615538500645 0"
+                  to="-4.3523107700129 480"
+                  dur="1.4662807556935682s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animateTransform>
+                <animate
+                  attributeType="CSS"
+                  attributeName="opacity"
+                  values="1;0"
+                  dur="1.4662807556935682s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animate>
+              </g>
+              <g transform="translate(206.722 332.232)">
+                <rect
+                  width="7.636912663465038"
+                  height="7.636912663465038"
+                  fill="#F65A5B"
+                  transform="rotate(18.036591826355995)"
+                ></rect>
+                <animateTransform
+                  attributeName="transform"
+                  type="translate"
+                  from="122.16550975510404 0"
+                  to="244.33101951020808 480"
+                  dur="1.4353281745859594s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animateTransform>
+                <animate
+                  attributeType="CSS"
+                  attributeName="opacity"
+                  values="1;0"
+                  dur="1.4353281745859594s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animate>
+              </g>
+              <g transform="translate(137.252 313.902)">
+                <rect
+                  width="9.58640372808878"
+                  height="9.58640372808878"
+                  fill="#FA9C9D"
+                  transform="rotate(84.9299171174362)"
+                ></rect>
+                <animateTransform
+                  attributeName="transform"
+                  type="translate"
+                  from="82.98382665184931 0"
+                  to="165.96765330369863 480"
+                  dur="1.5673910658448071s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animateTransform>
+                <animate
+                  attributeType="CSS"
+                  attributeName="opacity"
+                  values="1;0"
+                  dur="1.5673910658448071s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animate>
+              </g>
+              <g transform="translate(112.875 188.052)">
+                <rect
+                  width="12.224275888715743"
+                  height="12.224275888715743"
+                  fill="#F65A5B"
+                  transform="rotate(56.958868320425424)"
+                ></rect>
+                <animateTransform
+                  attributeName="transform"
+                  type="translate"
+                  from="81.10118787423545 0"
+                  to="162.2023757484709 480"
+                  dur="1.1256263736515593s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animateTransform>
+                <animate
+                  attributeType="CSS"
+                  attributeName="opacity"
+                  values="1;0"
+                  dur="1.1256263736515593s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animate>
+              </g>
+              <g transform="translate(-44.0883 105.22)">
+                <rect
+                  width="7.3193707683479285"
+                  height="7.3193707683479285"
+                  fill="#39D1B4"
+                  transform="rotate(29.61901015919562)"
+                ></rect>
+                <animateTransform
+                  attributeName="transform"
+                  type="translate"
+                  from="-36.161416073732816 0"
+                  to="-72.32283214746563 480"
+                  dur="1.0534095913396215s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animateTransform>
+                <animate
+                  attributeType="CSS"
+                  attributeName="opacity"
+                  values="1;0"
+                  dur="1.0534095913396215s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animate>
+              </g>
+              <g transform="translate(201.372 372.671)">
+                <rect
+                  width="5.544510601155997"
+                  height="5.544510601155997"
+                  fill="#F65A5B"
+                  transform="rotate(2.2963703425883897)"
+                ></rect>
+                <animateTransform
+                  attributeName="transform"
+                  type="translate"
+                  from="113.35963017076664 0"
+                  to="226.71926034153327 480"
+                  dur="1.030518978123618s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animateTransform>
+                <animate
+                  attributeType="CSS"
+                  attributeName="opacity"
+                  values="1;0"
+                  dur="1.030518978123618s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animate>
+              </g>
+              <g transform="translate(131.495 87.179)">
+                <rect
+                  width="10.759076659212255"
+                  height="10.759076659212255"
+                  fill="#FFC107"
+                  transform="rotate(87.32528953957524)"
+                ></rect>
+                <animateTransform
+                  attributeName="transform"
+                  type="translate"
+                  from="111.2837754504788 0"
+                  to="222.5675509009576 480"
+                  dur="1.6733003196858514s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animateTransform>
+                <animate
+                  attributeType="CSS"
+                  attributeName="opacity"
+                  values="1;0"
+                  dur="1.6733003196858514s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animate>
+              </g>
+              <g transform="translate(168.916 8.31682)">
+                <rect
+                  width="13.053827089343216"
+                  height="13.053827089343216"
+                  fill="#FFC107"
+                  transform="rotate(41.59319430819056)"
+                ></rect>
+                <animateTransform
+                  attributeName="transform"
+                  type="translate"
+                  from="166.0388449718487 0"
+                  to="332.0776899436974 480"
+                  dur="1.167328833970436s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animateTransform>
+                <animate
+                  attributeType="CSS"
+                  attributeName="opacity"
+                  values="1;0"
+                  dur="1.167328833970436s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animate>
+              </g>
+              <g transform="translate(-246.023 361.539)">
+                <rect
+                  width="9.438843277640762"
+                  height="9.438843277640762"
+                  fill="#FA9C9D"
+                  transform="rotate(77.07547908665653)"
+                ></rect>
+                <animateTransform
+                  attributeName="transform"
+                  type="translate"
+                  from="-140.32757933557534 0"
+                  to="-280.6551586711507 480"
+                  dur="1.8215214067142032s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animateTransform>
+                <animate
+                  attributeType="CSS"
+                  attributeName="opacity"
+                  values="1;0"
+                  dur="1.8215214067142032s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animate>
+              </g>
+              <g transform="translate(-19.4778 411.261)">
+                <rect
+                  width="5.155137368313447"
+                  height="5.155137368313447"
+                  fill="#F65A5B"
+                  transform="rotate(63.68358494554056)"
+                ></rect>
+                <animateTransform
+                  attributeName="transform"
+                  type="translate"
+                  from="-10.489996883997884 0"
+                  to="-20.97999376799577 480"
+                  dur="1.938744964010533s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animateTransform>
+                <animate
+                  attributeType="CSS"
+                  attributeName="opacity"
+                  values="1;0"
+                  dur="1.938744964010533s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animate>
+              </g>
+              <g transform="translate(-193.329 253.053)">
+                <rect
+                  width="12.572461872186224"
+                  height="12.572461872186224"
+                  fill="#FA9C9D"
+                  transform="rotate(18.14043778713332)"
+                ></rect>
+                <animateTransform
+                  attributeName="transform"
+                  type="translate"
+                  from="-126.5912529949043 0"
+                  to="-253.1825059898086 480"
+                  dur="1.7608957790386608s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animateTransform>
+                <animate
+                  attributeType="CSS"
+                  attributeName="opacity"
+                  values="1;0"
+                  dur="1.7608957790386608s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animate>
+              </g>
+              <g transform="translate(132.362 64.3945)">
+                <rect
+                  width="11.962171698190868"
+                  height="11.962171698190868"
+                  fill="#F87B7C"
+                  transform="rotate(66.5452938923993)"
+                ></rect>
+                <animateTransform
+                  attributeName="transform"
+                  type="translate"
+                  from="116.70535383045883 0"
+                  to="233.41070766091767 480"
+                  dur="1.2748012693059791s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animateTransform>
+                <animate
+                  attributeType="CSS"
+                  attributeName="opacity"
+                  values="1;0"
+                  dur="1.2748012693059791s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animate>
+              </g>
+              <g transform="translate(23.7278 28.7318)">
+                <rect
+                  width="5.809294053959366"
+                  height="5.809294053959366"
+                  fill="#39D1B4"
+                  transform="rotate(12.777973190620841)"
+                ></rect>
+                <animateTransform
+                  attributeName="transform"
+                  type="translate"
+                  from="22.387744172095072 0"
+                  to="44.775488344190144 480"
+                  dur="1.990394651793788s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animateTransform>
+                <animate
+                  attributeType="CSS"
+                  attributeName="opacity"
+                  values="1;0"
+                  dur="1.990394651793788s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animate>
+              </g>
+              <g transform="translate(-166.194 338.268)">
+                <rect
+                  width="5.155192084927991"
+                  height="5.155192084927991"
+                  fill="#F87B7C"
+                  transform="rotate(65.13887033072942)"
+                ></rect>
+                <animateTransform
+                  attributeName="transform"
+                  type="translate"
+                  from="-97.49050856733884 0"
+                  to="-194.98101713467767 480"
+                  dur="1.5205048549215163s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animateTransform>
+                <animate
+                  attributeType="CSS"
+                  attributeName="opacity"
+                  values="1;0"
+                  dur="1.5205048549215163s"
+                  begin="-10s"
+                  repeatCount="indefinite"
+                ></animate>
+              </g>
+              <g transform="translate(-31.4654 122.618)">
+                <rect
+                  width="10.368127452931883"
+                  height
